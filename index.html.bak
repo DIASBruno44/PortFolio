@@ -350,9 +350,8 @@
             </div>
 			<br></br>
 			<h5>  After my various research and interviews, what emerges is that this job allows you to have a very large choice of technologies that are constantly updated.
-The profession of software engineer makes it possible to work in various business sectors because IT is present everywhere. But it also allows you to work internationally and discover new cultures and work techniques.
-
-The feedback from the experts as well as the necessary skills correspond to what I want to do as a job in the future and the skills I want to work on.</h5>
+			The profession of software engineer makes it possible to work in various business sectors because IT is present everywhere. But it also allows you to work internationally and discover new cultures and work techniques.
+			The feedback from the experts as well as the necessary skills correspond to what I want to do as a job in the future and the skills I want to work on.</h5>
 		</div>
 	</div>
    
@@ -363,19 +362,9 @@ The feedback from the experts as well as the necessary skills correspond to what
     <div class="container-fluid bg-primary text-white mt-5 py-1 px-sm-1 px-md-5">
         <div class="container text-center py-5">
             <div class="d-flex justify-content-center mb-4">
-                <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                <a class="btn btn-light btn-social" href="#"><i class="fab fa-instagram"></i></a>
-            </div>
-            <div class="d-flex justify-content-center mb-3">
-                <a class="text-white" href="#">Privacy</a>
-                <span class="px-3">|</span>
-                <a class="text-white" href="#">Terms</a>
-                <span class="px-3">|</span>
-                <a class="text-white" href="#">FAQs</a>
-                <span class="px-3">|</span>
-                <a class="text-white" href="#">Help</a>
+                <a class="btn btn-light btn-social mr-2" href="https://github.com/DIASBruno44"><i class="fab fa-github"></i></a>
+                <a class="btn btn-light btn-social mr-2" href="https://www.linkedin.com/in/bruno-dias-86184516b/"><i class="fab fa-linkedin-in"></i></a>
+				<a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-gitlab"></i></a>
             </div>
             <p class="m-0">&copy; <a class="text-white font-weight-bold" href="#">MysteryCode</a>. All Rights Reserved. Designed by <a class="text-white font-weight-bold" href="#">Mystery Code</a>
             </p>
