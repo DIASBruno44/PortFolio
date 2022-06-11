@@ -28,7 +28,7 @@
 </head>
 <body>
  <!-- Navbar Start -->
-    <nav class="navbar-expand-lg bg-light navbar fixed-top">
+    <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light">
         <a href="index.html" class="navbar-brand ml-lg-3">
             <h1 class="m-0 display-5"><span class="text-primary">My</span>PortFolio</h1>
         </a>
@@ -37,7 +37,7 @@
         </button>
         <div class="collapse navbar-collapse px-lg-3" id="navbarCollapse">
             <div class="navbar-nav m-auto py-0">
-                <a href="index.html" class="nav-item nav-link active">Home              </a>
+                <a href="index.html" class="nav-item nav-link active">Home</a>
             </div>
         </div>
     </nav>
