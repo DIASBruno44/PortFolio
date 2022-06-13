@@ -55,12 +55,12 @@
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
 							<h5 class="font-weight-bold mb-1">Situation</h5>
-							<p>Researchers at INSERM (Laboratory) do experiments on animal intestines, observing their behavior using cameras to observe their contractions and calculate different values ​​they need. </p>
+							<p>Researchers at INSERM (Laboratory) do experiments on animal intestines, observing their behavior using cameras to observe their contractions and calculate different values they need. </p>
                         </div>
 						<div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
 							<h5 class="font-weight-bold mb-1">The project's objectives</h5>
-							<p> The objective of this project is to design an application to launch experiments and automatically calculate the key values ​​requested.</p>
+							<p>The objective of this project is to design an application to launch experiments and automatically calculate the key values requested.</p>
                         </div>
                     </div>
                 </div>

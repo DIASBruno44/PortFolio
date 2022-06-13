@@ -45,7 +45,7 @@
 		<div class="container-fluid py-5" id="credentials">
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center">
-                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Details</h1>
+                <h1 class="display-2 text-uppercase text-white" style="-webkit-text-stroke: 0.5px #dee2e6;">Details</h1>
                 <h1 class="position-absolute text-uppercase text-primary"> Connected Clock</h1>
             </div>
             <div class="row align-items-center">
@@ -55,12 +55,12 @@
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
 							<h5 class="font-weight-bold mb-1">Situation</h5>
-							<p> The University of Saint-Nazaire during the open doors would like to present to people who come to visit the university in order to learn about the sector, they would like to create a means that would present what is seen during the year in DUT GIM.</p>
+							<p>The University of Saint-Nazaire during the open day would like to create a means that would present what is seen during the year in DUT GIM.</p>
                         </div>
 						<div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
 							<h5 class="font-weight-bold mb-1">The project's objectives</h5>
-							<p> The objective of this project was to create "educational posters" which in reality were tables in which it was necessary to present mechanical or electrical components which were seen during the year.</p>
+							<p> The objective of this project was to create "educational posters"  in which it was necessary to present mechanical or electrical components that were seen during the year.</p>
                         </div>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
 							<h5 class="font-weight-bold mb-1">Purpose</h5>
-							<p> We had decided to present very simple diagrams in order to present resistors and diodes by indicating the usefulness of each of the components. In the same way we decided to present an electro-magnetic magnet by putting it in situation so that it is more visual.</p>
+							<p> We had decided to present very simple diagrams in order to present resistors and diodes by indicating the usefulness of each of the components. In the same way we decided to present an electro-magnetic magnet by putting it in situation to make it more visual.</p>
                         </div>
                     </div>
                 </div>
